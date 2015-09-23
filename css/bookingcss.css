@@ -1,0 +1,48 @@
+@CHARSET "ISO-8859-1";
+
+.booking-wrapper {
+	overflow: auto;
+}
+
+.input-area {
+	border-radius: 5px;
+	height: 30px;
+	width: 170px;
+}
+
+.submit-button {
+	width: 100px;
+	height: 30px;
+	border-radius: 8px;
+	border: 1px solid;
+	border-color: white;
+	background-color: red;
+	color: white;
+	text-align: center;
+	padding-top: 5px;
+	font-weight: bolder;
+	margin-left: 400px;
+	margin-top: 20px;
+}
+
+.submit-button:hover {
+	width: 100px;
+	height: 30px;
+	border-radius: 8px;
+	border: 1px solid;
+	border-color: white;
+	background-color: red;
+	color: white;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 110%;
+	padding-top: 5px;
+	transition: 0.2s;
+}
+
+#mBookingForm {
+	color: white;
+}
+table{
+	color: white;
+}
